@@ -1,0 +1,6 @@
+{
+  "name": "Indian Patent Draft Designer",
+  "description": "An application to analyze inventive fields, identify technical problems and novel solutions, and auto-generate comprehensive Indian patent draft specifications with compliant formatting and custom technical SVG diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
